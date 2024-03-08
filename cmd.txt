@@ -1,1 +1,1 @@
-show interfaces loopback 0
+show run
